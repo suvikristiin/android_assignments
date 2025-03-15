@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id AddNoteActivityButton
+id AddNoteButton
+id ContentEdit
+id ListNotesActivityButton
+id ListNotesRV
+id NoteContentText
+id NoteIdText
+id NoteTimeAndDateText
+id NoteTitleText
+id TitleEdit
+id main
+id returnButton
+id textView
+id textView2
+id textView3
+layout activity_add_note
+layout activity_list_notes
+layout activity_main
+layout notes_view
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Week9
+style Theme.Week9
+xml backup_rules
+xml data_extraction_rules
